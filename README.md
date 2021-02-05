@@ -4,6 +4,7 @@
 
 ## 源码地址
 GitHub地址：[https://github.com/MichelleWangMX/wm-list-add](https://github.com/MichelleWangMX/wm-list-add)
+uni-app插件市场地址：[https://ext.dcloud.net.cn/plugin?id=4131#detail](https://ext.dcloud.net.cn/plugin?id=4131#detail)
 
 ## 效果预览
 ![](https://ftp.bmp.ovh/imgs/2021/02/9d9b17da8190d96e.gif)
